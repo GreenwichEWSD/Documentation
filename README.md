@@ -7,3 +7,15 @@ This includes:
 - Meeting Minutes
 - User Stories
 - Tasks
+
+Our team members and roles are:  
+
+| Role                  | Member       |
+| --------------------- |:------------:|
+| Product Owner         | Hennah       |
+| Scrum Master          | Joe          |
+| Database Designer     | Hennah / Jay |
+| Information Architect | Natasha      |
+| Programmer            | Joe          |
+| Web Designer          | Anisa        |
+| Tester                | Caner        |
