@@ -14,8 +14,8 @@ Our team members and roles are:
 | --------------------- |:------------:|
 | Product Owner         | Hennah       |
 | Scrum Master          | Joe          |
-| Database Designer     | Hennah / Jay |
-| Information Architect | Natasha      |
-| Programmer            | Joe          |
-| Web Designer          | Anisa        |
-| Tester                | Caner        |
+| Database Designer     | Hennah / Jay    |
+| Information Architect | Natasha / Caner |
+| Programmer            | Joe   / Jay |
+| Web Designer          | Anisa / Natasha |
+| Tester                | Caner / Anisa   |
