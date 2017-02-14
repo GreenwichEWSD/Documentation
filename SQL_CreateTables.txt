@@ -11,7 +11,7 @@ CREATE TABLE PTA_User(
  PTA_ID_User nchar(10) NOT NULL,
  GivenName nchar(30) NOT NULL,
  Surname nchar(30) NOT NULL,
- UserType nchar(10) NOT NULL,
+ UserType nchar(10) NOT NULL, -- should this be an int that references a table of usertypes? Then we can use if(user.usertype > 3){ do something }
  Email nchar(30) NOT NULL,
  Pword nchar(15) NOT NULL,
  MobileNumber varchar(11) NULL,
